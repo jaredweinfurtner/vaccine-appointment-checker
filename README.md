@@ -19,7 +19,7 @@ There currently exists a vaccination appointment portal for Germany @ [https://w
 2. Open a terminal and navigate to the download folder
 3. List the vaccines (using the downloaded executable) to figure out which one is right for you by looking at the **age** section on each
     ```
-    ./vaccine-appointment-checker.exe -listVaccines
+    vaccine-appointment-checker.exe -listVaccines
     ```
     This should provide a result similar to:
     ```json
@@ -49,7 +49,7 @@ There currently exists a vaccination appointment portal for Germany @ [https://w
 4. Run the scanner by entering your chosen vaccine (by age) and zip codes (comma separated & no spaces)
 
     ```
-   ./vaccine-appointment-checker.exe -vaccineCode L922 -zipCodes 70174,70376,74081,75175
+   vaccine-appointment-checker.exe -vaccineCode L922 -zipCodes 70174,70376,74081,75175
     ```
 
     This will result in a list of vaccination centers that have appointments for your chosen vaccine:
