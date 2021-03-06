@@ -4,7 +4,7 @@ There currently exists a vaccination appointment portal for Germany @ [https://w
 
 1. You can only search one vaccination center at a time
 2. When it searches in the beginning, it searches **all** vaccines, even though they are age restricted
-3. If just one of these vaccines are available at the location, it gives you false hope.  When you enter your age, it may say no vaccines are actually available due to age restrictions on the vaccines
+3. If just one of these vaccines is available at the location, it gives you false hope.  When you enter your age, it may say no vaccines are actually available due to age restrictions on the vaccines
 
 ## How to use
 
