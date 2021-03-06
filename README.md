@@ -12,9 +12,9 @@ There currently exists a vaccination appointment portal for Germany @ [https://w
 
     | Operating System | Link    |
     | ---------------- |:-------:|
-    | Windows (x86)    | [download](./bin/x86/vaccine-appointment-checker.exe) |
-    | Windows (x64)    | [download](./bin/x64/vaccine-appointment-checker.exe) |
-    | Linux            | [download](./bin/linux/vaccine-appointment-checker) |
+    | Windows (x86)    | [download](https://github.com/jaredweinfurtner/vaccine-appointment-checker/raw/main/bin/x86/vaccine-appointment-checker.exe) |
+    | Windows (x64)    | [download](https://github.com/jaredweinfurtner/vaccine-appointment-checker/raw/main/bin/x64/vaccine-appointment-checker.exe) |
+    | Linux            | [download](https://github.com/jaredweinfurtner/vaccine-appointment-checker/raw/main/bin/linux/vaccine-appointment-checker) |
 
 2. Open a terminal and navigate to the download section
 3. List the vaccines (using the downloaded executable) to figure out which one is right for you by looking at the **age** section on each
