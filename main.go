@@ -26,7 +26,7 @@ type LocationResponse struct {
 }
 
 const (
-	vaccinationsUrl = "https://www.impfterminservice.de/assets/static/its/vaccination-list.json"
+	vaccinationsUrl = "https://001-iz.impfterminservice.de/assets/static/its/vaccination-list.json"
 	vaccinationCentersUrl = "https://www.impfterminservice.de/assets/static/impfzentren.json"
 	appointmentCheckUrlPart  = "rest/suche/termincheck?plz=%v&leistungsmerkmale=%v"
 	appointmentLinkPart   = "impftermine/service?plz=%v"
