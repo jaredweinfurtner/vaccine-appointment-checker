@@ -1,4 +1,5 @@
-# German Vaccination Appointment Checker
+# German Vaccination Appointment Checker [(zur deutschen Beschreibung)](README_de.md)
+
 
 There currently exists a vaccination appointment portal for Germany @ [https://www.impfterminservice](https://www.impfterminservice.de).  However, it has many flaws:
 
