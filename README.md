@@ -1,5 +1,9 @@
 # German Vaccination Appointment Checker [(zur deutschen Beschreibung)](README_de.md)
 
+**NOTICE**
+
+As of 26.03.2021 the 116117 vaccination portal has made changes that does not allow this program to function any more (no more REST API access).  Instead, they force people to wait for an indefinite amount of time in front of their computer in a "virtual waiting room".  You have no way of knowing your position in the queue (or even if there is one), so you may be waiting 15 minutes or 6 hours - better not go to the bathroom and miss your spot.  
+![image](https://user-images.githubusercontent.com/25351659/112604261-37b58600-8e16-11eb-981e-c358d2977a2a.png)
 
 There currently exists a vaccination appointment portal for Germany @ [https://www.impfterminservice](https://www.impfterminservice.de).  However, it has many flaws:
 
